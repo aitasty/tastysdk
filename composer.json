@@ -15,8 +15,8 @@
     },
     "autoload":{
         "psr-4":{
-            "Aitasty\\":"src/",
-            "AitastyTest\\":"test/"
+            "aitasty\\":"src/",
+            "aitastyTest\\":"test/"
         },
         "files":[
             "src/helpers.php"

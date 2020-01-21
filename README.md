@@ -1,10 +1,7 @@
-<?php  
+ 
 require_once __DIR__ . '/vendor/autoload.php';  
-
 use Aitasty\Core;
 use AitastyTest\Core as TestCore;
-
-
 $c = new Core;
 $c1 = $c->test();
 var_dump( $c1 );
